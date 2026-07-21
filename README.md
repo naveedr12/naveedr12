@@ -2,6 +2,10 @@
 
 # Naveed Raza
 
+**<div align="center">
+<img src="PASTE_IMAGE_URL_HERE" alt="Naveed Raza" width="900"/>
+</div>**
+
 ### AI & Robotics Enthusiast · Building practical AI systems from data to deployment
 
 BS Artificial Intelligence student bridging healthcare, cognitive science, and computational intelligence — I build systems that don't just run demos, but solve real business and research problems: POS systems, sentiment-aware RAG bots, and ML-powered recommenders.
