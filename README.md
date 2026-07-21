@@ -1,3 +1,4 @@
+![Uploading naveed_readme_animated.gif…]()
 <div align="center">
 
 # Naveed Raza
