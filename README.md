@@ -1,11 +1,8 @@
-![Uploading naveed_readme_animated.gif…]()
 <div align="center">
 
-# Naveed Raza
+<img src="./naveed_readme_animated.gif" alt="Naveed Raza - AI & Robotics Enthusiast" width="900"/>
 
-**<div align="center">
-<img src="PASTE_IMAGE_URL_HERE" alt="Naveed Raza" width="900"/>
-</div>**
+# Naveed Raza
 
 ### AI & Robotics Enthusiast · Building practical AI systems from data to deployment
 
